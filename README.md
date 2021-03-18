@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A Tinder-Like App example built on Jetpack Compose + MVI + StateFlow.</h4>
+<h4 align="center">A Tinder-Like App example built on Jetpack Compose + MVI + StateFlow + Room + Hilt.</h4>
 
 <p align="center">
 <img src="https://github.com/cyph3rcod3r/Tinder-Like/blob/master/app/20210318_100705.gif" />
