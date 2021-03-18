@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/cyph3rcod3r/Tinder-Like"><img src="https://github.com/cyph3rcod3r/Tinder-Like/blob/master/app/src/main/res/drawable-v24/tinder.png" alt="Tinder-Like" width="200"></a>
   <br>
-  Markdownify
+  Tinder-Like
   <br>
 </h1>
 
